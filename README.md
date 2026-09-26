@@ -1,4 +1,4 @@
-# CalPRESS-release.apk
+# CalPRESS-release
 A personalized calculator application with calculation history and local SQLite storage.
 
 # CalPRESS Summary
